@@ -14,9 +14,9 @@ The generated dataset is available on **Kaggle**, and the source code in this re
 
 ## Download Dataset
 
-The dataset generated in this project is available on **Kaggle**. You can download it using the link below:
+The dataset generated in this project is available in the `datasets` folder of this repository. You can access it using the link below:
 
-[Download the dataset from Kaggle](https://www.kaggle.com/datasets/eslamisepehr/fredholm-second-kind)
+[Go to the datasets folder](./datasets/)
 
 ## Usage
 
