@@ -10,7 +10,7 @@ where $`K(x, t)`$ is the kernel function, $`\lambda`$ is a scalar parameter, and
 
 This datasets can be useful for research in numerical analysis, machine learning, and applied mathematics.
 
-The generated dataset is available on **Kaggle**, and the source code in this repository allows researchers to reproduce or modify the dataset according to their needs.
+The generated dataset is available on **GitHub**, and the source code in this repository allows researchers to reproduce or modify the dataset according to their needs.
 
 ## Download Dataset
 
@@ -34,3 +34,6 @@ To generate the dataset, run:
 ```bash
 python second_kind_Fredholm.py
 ```
+
+### Citation
+If you use this dataset, please reference our article (under review).
